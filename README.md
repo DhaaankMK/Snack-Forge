@@ -26,7 +26,7 @@ O SnackForge e todos os seus componentes, códigos-fonte, executáveis e lógica
 
 ## 📦 Como Usar (Versão Executável)
 1. Vá até a aba de **Releases** deste repositório.
-2. Baixe o arquivo `snack_forge_gui.exe`.
+2. Baixe o arquivo `forge.exe`.
 3. Execute o programa diretamente na sua máquina e comece a gerar seus pacotes.
 
 ---
